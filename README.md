@@ -1,4 +1,4 @@
-# Value-neuron
+# Multilingual C-Voices: Probing LLMs’ Value Alignment Behaviors under Chinese Social Values
 The constructed C-Voice dataset is stored in the data directory.
 
 The paths of valid semantic and decision-making neurons are stored in value_neuron_{model_name}.
